@@ -1,9 +1,8 @@
-Before Begin follow the documentation and create an environment or you can install all dependencies globally
+follow the documentation and create an environment for working on fastAPI or you can install all dependencies globally
 
 https://docs.python.org/3/tutorial/venv.html
 
-Step of creating python env in windows // you can see the documentation for other platform
-
+Step for creating python env in windows
 ```bash
 python -m venv fastapi-env
 ```
