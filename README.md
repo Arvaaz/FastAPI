@@ -1,4 +1,4 @@
-Before Begin follow the documentation and create an enviornament or you can install all dependencies globally
+Before Begin follow the documentation and create an environment or you can install all dependencies globally
 
 https://docs.python.org/3/tutorial/venv.html
 
@@ -24,7 +24,7 @@ fastapi-env/Scripts/activate
 4. run the server
 
    ```bash
-   uvicorn address:app --reload
+   python -m uvicorn address:app --reload
    ```
 
 5. open the link in your browser
