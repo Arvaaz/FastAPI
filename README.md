@@ -28,7 +28,7 @@ fastapi-env/Scripts/activate
    ```
 
 5. open the link in your browser
-   # http://localhost:8000/docs
+   ## http://localhost:8000/docs
 
 ### Name: Arvaz Khan
 
